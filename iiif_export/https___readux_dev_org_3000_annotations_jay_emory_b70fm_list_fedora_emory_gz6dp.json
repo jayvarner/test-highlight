@@ -1,0 +1,1393 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://readux-dev.org:3000/annotations/jay/emory:b70fm/list/fedora:emory:gz6dp",
+    "@type": "sc:AnnotationList",
+    "resources": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "5d74e452-932b-4fc2-9477-786995f74c0d",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jay Varner"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>wtf</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/canvas/fedora:emory:gz6dp",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=527,933,1031,51",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='0ae00030-a1d3-4597-bbed-851e58cf1f9b']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 41
+                            }
+                        },
+                        "endSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='5b3042e2-2a9c-411a-b259-64490796a9bd']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 66
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "f98ac331-1721-4188-963a-852c96bc6998",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jay Varner"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>grrrr</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/canvas/fedora:emory:gz6dp",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=524,559,1032,47",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='98d92659-42d8-4791-806b-c3a6a16aba74']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 17
+                            }
+                        },
+                        "endSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='cd658679-42e7-49d1-bd11-4020f045d4ea']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 58
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "5ee1d33e-92c4-4b71-88fa-1f24dd34f75a",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jay Varner"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>grrr</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/canvas/fedora:emory:gz6dp",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=531,1308,909,46",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='59d360ca-df68-4943-a96c-9b70d7f8afd4']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 0
+                            }
+                        },
+                        "endSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='54c81270-21c8-42a0-bd83-e775f9a43460']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 27
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "668418f2-5641-4bdb-b002-b1ab7d7a57f2",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jay Varner"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>grrrrrrrrrr</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/canvas/fedora:emory:gz6dp",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=534,1632,1022,48",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='56a12768-ffa8-4b7e-afe4-30940f50ff37']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 18
+                            }
+                        },
+                        "endSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='7eeb030f-015c-4957-a591-d7a52a662b11']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 40
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "e0fa634a-269b-431a-9d1e-c6c8b316786e",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jay Varner"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>omg wtf!</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/canvas/fedora:emory:gz6dp",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=574,325,982,51",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='4951a087-17b3-4432-95b1-643e617588aa']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 15
+                            }
+                        },
+                        "endSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='7b1ab385-c491-4d61-b9d7-a2c9d825a270']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 34
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "64d44736-4dd3-4d08-82e4-e6707f6f6fb6",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jay Varner"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>aiehaoe4iaoir4wpionrnoirb</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/canvas/fedora:emory:gz6dp",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=524,698,1033,49",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='2655aa1e-9662-4b2f-b1ae-a530c308d6e2']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 3
+                            }
+                        },
+                        "endSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='6657605c-b3cc-477e-8714-d25cb701d983']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 18
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "a9b6b359-9f26-49f1-916f-40b7297687dd",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jay Varner"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>trsjr6tmsr6mr</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/canvas/fedora:emory:gz6dp",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=523,1027,1033,49",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='ae3cc3ee-29fe-4356-97a5-c22117347547']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 15
+                            }
+                        },
+                        "endSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='eb580dc8-fc98-4142-8123-1fbfc0903469']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 26
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "68b823e7-017e-4a35-806f-44037aa94ea2",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jay Varner"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>g34g4343g34</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/canvas/fedora:emory:gz6dp",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=528,1398,1031,51",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='c0f3af9c-51b4-41e1-a5fd-fa8d3525b7ca']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 31
+                            }
+                        },
+                        "endSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='fac13696-e449-4629-8e2a-66ce401f34df']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 49
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "9a4d58f7-9be3-4f6f-8232-c44765707010",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jay Varner"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>bibiuvgu8f7ofu</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/canvas/fedora:emory:gz6dp",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=574,325,982,51",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='4951a087-17b3-4432-95b1-643e617588aa']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 13
+                            }
+                        },
+                        "endSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='7b1ab385-c491-4d61-b9d7-a2c9d825a270']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 25
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "a52cca56-72c8-448a-b1cf-ae7aa02075bc",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jay Varner"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>wrntm6r</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/canvas/fedora:emory:gz6dp",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=574,325,982,51",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='4951a087-17b3-4432-95b1-643e617588aa']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 21
+                            }
+                        },
+                        "endSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='7b1ab385-c491-4d61-b9d7-a2c9d825a270']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 32
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "03a88d8c-8670-4961-a9d6-e127551e8fec",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jay Varner"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>eg34g343</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/canvas/fedora:emory:gz6dp",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=524,465,1032,48",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='1d9ad446-4637-43c4-8f2b-f96b3a8ff1df']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 21
+                            }
+                        },
+                        "endSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='dd185ed3-5e2c-4919-bfc8-13761f1a7e52']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 43
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "d7d19866-28c4-46c0-a51f-2a9b74414e56",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jay Varner"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>norwojprwojp[r</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/canvas/fedora:emory:gz6dp",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=524,653,1033,48",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='2b48c56d-1ce1-4771-88b8-51fe4595c697']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 46
+                            }
+                        },
+                        "endSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='2655aa1e-9662-4b2f-b1ae-a530c308d6e2']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 61
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "6600094d-e72d-472a-8bd1-3f16bf1c3800",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jay Varner"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>bievuinevui</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/canvas/fedora:emory:gz6dp",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=521,792,1045,51",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='8e2b6117-b8c6-4aef-911a-4bc84577abdf']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 32
+                            }
+                        },
+                        "endSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='01d3e152-1769-494f-b7f6-319999cd1fb4']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 44
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "30e78919-3cdf-4f8e-8445-aa6008caebb7",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jay Varner"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>wb4eb4b4</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/canvas/fedora:emory:gz6dp",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=241,356,221,187",
+                    "item": {
+                        "@type": "oa:Choice",
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M241.21219,356.00752h110.61023v0h110.61023v93.26185v93.26185h-110.61023h-110.61023v-93.26185z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_d6497f83-0429-4bec-83ef-0aee0e00719f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=241,356,221,187"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "8bf389e9-f6e8-48a4-b4c2-857d2e3dd1d8",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jay Varner"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>rbr4n444n</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/canvas/fedora:emory:gz6dp",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=574,325,982,51",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='4951a087-17b3-4432-95b1-643e617588aa']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 21
+                            }
+                        },
+                        "endSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='7b1ab385-c491-4d61-b9d7-a2c9d825a270']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 31
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "382f0bf9-8f3e-4b37-8618-2f123fb5eb0a",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jay Varner"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>tnetntttn</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/canvas/fedora:emory:gz6dp",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=574,325,982,51",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='4951a087-17b3-4432-95b1-643e617588aa']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 24
+                            }
+                        },
+                        "endSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='7b1ab385-c491-4d61-b9d7-a2c9d825a270']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 42
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "77c3a34e-cd05-4d86-af34-03fcc93ecee6",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jay Varner"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>lmr;rmo;lmr;</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/canvas/fedora:emory:gz6dp",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=574,325,982,51",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='4951a087-17b3-4432-95b1-643e617588aa']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 14
+                            }
+                        },
+                        "endSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='7b1ab385-c491-4d61-b9d7-a2c9d825a270']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 28
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "4b56fc56-84cc-4390-8e1c-86cfc780569a",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jay Varner"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>rw44bn4n4</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/canvas/fedora:emory:gz6dp",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=574,325,982,51",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='4951a087-17b3-4432-95b1-643e617588aa']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 21
+                            }
+                        },
+                        "endSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='7b1ab385-c491-4d61-b9d7-a2c9d825a270']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 42
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "8e0d4c5d-af5d-4a24-8fc8-34063ad6acd5",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jay Varner"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>rbrwbrrr</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/canvas/fedora:emory:gz6dp",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=574,325,982,51",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='4951a087-17b3-4432-95b1-643e617588aa']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 12
+                            }
+                        },
+                        "endSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='7b1ab385-c491-4d61-b9d7-a2c9d825a270']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 31
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "414363a6-2ba3-4e03-b889-06f0dc3ff702",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jay Varner"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>tntn5t5n</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/canvas/fedora:emory:gz6dp",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=574,325,982,51",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='4951a087-17b3-4432-95b1-643e617588aa']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 27
+                            }
+                        },
+                        "endSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='7b1ab385-c491-4d61-b9d7-a2c9d825a270']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 41
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "b7fa6453-1186-4f48-89db-5c19679e1996",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jay Varner"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>tehte5te5eh</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/canvas/fedora:emory:gz6dp",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=524,1120,1034,49",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='649dbc71-c814-4875-8aff-f86f54fbd589']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 43
+                            }
+                        },
+                        "endSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='736f59e0-1fe7-4806-aa96-0acdb5d89150']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 64
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "faa61694-8a64-4c73-b1a2-32a44f3f6a9b",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jay Varner"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>rbrnrn</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/canvas/fedora:emory:gz6dp",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=520,373,1037,48",
+                    "item": {
+                        "@type": "RangeSelector",
+                        "startSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='7b1ab385-c491-4d61-b9d7-a2c9d825a270']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "start": 2
+                            }
+                        },
+                        "endSelector": {
+                            "@type": "XPathSelector",
+                            "value": "//*[@id='e07589e6-0568-4b9d-a940-83f85d49c85e']",
+                            "refinedBy": {
+                                "@type": "TextPositionSelector",
+                                "end": 16
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "e9def3e8-86d3-4128-9c4b-7fc83e053129",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jay Varner"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>55h355h3</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/canvas/fedora:emory:gz6dp",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=268,851,280,205",
+                    "item": {
+                        "@type": "oa:Choice",
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M268.02333,851.22498h139.78706v0h139.78706v102.7246v102.7246h-139.78706h-139.78706v-102.7246z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_a741c49a-7181-4360-a254-f41b4af552f0\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=268,851,280,205"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "7f4ef62e-d64d-415a-bd5f-a8705c92ef57",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jay Varner"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>4r4b34b4</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/canvas/fedora:emory:gz6dp",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=197,1238,281,193",
+                    "item": {
+                        "@type": "oa:Choice",
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M197.05267,1237.62077h140.57562v0h140.57562v96.4161v96.4161h-140.57562h-140.57562v-96.4161z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_d82df816-15e5-46a2-9064-ee60130cc5fe\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=197,1238,281,193"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "289f4f10-d036-4521-a39a-13bb387223d0",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jay Varner"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>idsievnieine</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/canvas/fedora:emory:gz6dp",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1374,1255,251,232",
+                    "item": {
+                        "@type": "oa:Choice",
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1588.89148,1452.59372c-23.21196,19.48788 -55.95619,33.99985 -88.8591,33.98251v0v0c-32.90291,-0.01734 -61.56686,-13.59305 -88.8591,-33.98251c-27.29224,-20.38946 -37.90038,-51.45906 -36.80664,-82.04103c1.09374,-30.58197 13.88937,-60.6763 36.80664,-82.04103c22.91727,-21.36473 55.95619,-33.99985 88.8591,-33.98251c32.90291,0.01734 65.66981,12.68713 88.8591,33.98251c23.18929,21.29537 36.80098,51.21633 36.80664,82.04103c0.00567,30.8247 -13.59468,62.55315 -36.80664,82.04103z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_14fecf47-05bc-4d4a-8235-f4cf71da82bc\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=1374,1255,251,232"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "6ecd84d0-e263-4e24-8763-2ecb1e227b5a",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jay Varner"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>mvropnvompvlom;</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/canvas/fedora:emory:gz6dp",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=475,138,365,205",
+                    "item": {
+                        "@type": "oa:Choice",
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M474.62679,138.36418h182.36945v0h182.36945v102.7246v102.7246h-182.36945h-182.36945v-102.7246z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_690a9b54-448d-49c2-a8d4-519a0cc93808\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=475,138,365,205"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "aed98d36-ba41-415b-b949-ff1eb66c614a",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jay Varner"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>box top right</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/canvas/fedora:emory:gz6dp",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1339,260,280,172",
+                    "item": {
+                        "@type": "oa:Choice",
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1619.62002,259.80286h-140.15275v0h-140.15275v86.16479v86.16479h140.15275h140.15275v-86.16479z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_9ad14a1d-ddd2-4b7b-8b71-16700d10009d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=1339,260,280,172"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "c7cdfe9a-da8e-4367-9238-07d587c09d0a",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jay Varner"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>bottom left</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/canvas/fedora:emory:gz6dp",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=186,1728,248,131",
+                    "item": {
+                        "@type": "oa:Choice",
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M186.01279,1728.10685h124.0158v0h124.0158v65.66215v65.66215h-124.0158h-124.0158v-65.66215z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_ea78db2d-f8e6-4053-a96d-dfb2f760510c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=186,1728,248,131"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "322e281f-f734-4dbd-93bc-65bc08fd58e0",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jay Varner"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>bottom right</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/canvas/fedora:emory:gz6dp",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1320,1599,285,228",
+                    "item": {
+                        "@type": "oa:Choice",
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1605.42588,1827.46576h-142.51843v0h-142.51843v-114.13017v-114.13017h142.51843h142.51843v114.13017z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_cd603f7f-773c-48d2-b1c7-ddabc699a102\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=1320,1599,285,228"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "9eb598ab-9bda-4ab1-a51d-3f46d9018e0b",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jay Varner"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>above circle</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/canvas/fedora:emory:gz6dp",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1481,1081,154,125",
+                    "item": {
+                        "@type": "oa:Choice",
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1635.39127,1081.48533h-77.06772v0h-77.06772v62.5079v62.5079h77.06772h77.06772v-62.5079z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_8a955c6d-b1e2-4397-a2f2-96bcd0ec3a23\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=1481,1081,154,125"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "46b7269c-630e-495c-a7cc-e0e42fcfcd01",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jay Varner"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>top center right</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/canvas/fedora:emory:gz6dp",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=989,110,302,155",
+                    "item": {
+                        "@type": "oa:Choice",
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1291.57788,109.97592h-151.19263v0h-151.19263v77.49059v77.49059h151.19263h151.19263v-77.49059z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_6c5589f5-c5f6-458e-a5dc-cf7d95661760\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=989,110,302,155"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "0d994715-082c-4195-a891-ad0bb23650c2",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jay Varner"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>tippy top right</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/canvas/fedora:emory:gz6dp",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1419,119,216,103",
+                    "item": {
+                        "@type": "oa:Choice",
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1419.32506,119.43868h108.24454v0h108.24454v51.46802v51.46802h-108.24454h-108.24454v-51.46802z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_28a657f0-701a-4315-8025-483f0ef20307\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=1419,119,216,103"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "ce1956ef-13c5-4aa8-843c-441ff63548df",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jay Varner"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>rbrbrbr</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/canvas/fedora:emory:gz6dp",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux-dev.org:3000/iiif/v2/emory:b70fm/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=217,189,175,96",
+                    "item": {
+                        "@type": "oa:Choice",
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M216.88168,189.22452h87.64861v0h87.64861v48.05916v48.05916h-87.64861h-87.64861v-48.05916z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_6d4b9220-1d26-4eb0-bf62-828d725eaf24\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=217,189,175,96"
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}
